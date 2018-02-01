@@ -1,0 +1,3 @@
+[submodule "smt_module"]
+	path = smt_module
+	url = git@github:fengbaozhiling/
